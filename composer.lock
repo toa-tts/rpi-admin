@@ -554,12 +554,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/matrix-platform/backend-adminlte.git",
-                "reference": "4af5821832d348df0b2d811688c9114ef256a12e"
+                "reference": "2b61397768c1d34db7a4a7fde17a88faeab529fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matrix-platform/backend-adminlte/zipball/4af5821832d348df0b2d811688c9114ef256a12e",
-                "reference": "4af5821832d348df0b2d811688c9114ef256a12e",
+                "url": "https://api.github.com/repos/matrix-platform/backend-adminlte/zipball/2b61397768c1d34db7a4a7fde17a88faeab529fb",
+                "reference": "2b61397768c1d34db7a4a7fde17a88faeab529fb",
                 "shasum": ""
             },
             "require": {
@@ -581,7 +581,7 @@
                 "issues": "https://github.com/matrix-platform/backend-adminlte/issues",
                 "source": "https://github.com/matrix-platform/backend-adminlte/tree/master"
             },
-            "time": "2021-08-11T02:44:14+00:00"
+            "time": "2021-08-11T06:37:38+00:00"
         },
         {
             "name": "matrix-platform/core",
@@ -589,12 +589,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/matrix-platform/core.git",
-                "reference": "ef44c1d31979999991d656a6a7156b408582602b"
+                "reference": "b2318986d81fc8608910584ddf8a8c35a0f1ca2a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matrix-platform/core/zipball/ef44c1d31979999991d656a6a7156b408582602b",
-                "reference": "ef44c1d31979999991d656a6a7156b408582602b",
+                "url": "https://api.github.com/repos/matrix-platform/core/zipball/b2318986d81fc8608910584ddf8a8c35a0f1ca2a",
+                "reference": "b2318986d81fc8608910584ddf8a8c35a0f1ca2a",
                 "shasum": ""
             },
             "require": {
@@ -625,7 +625,7 @@
                 "issues": "https://github.com/matrix-platform/core/issues",
                 "source": "https://github.com/matrix-platform/core/tree/master"
             },
-            "time": "2021-08-09T14:35:00+00:00"
+            "time": "2021-08-11T06:36:42+00:00"
         },
         {
             "name": "mhor/php-mediainfo",
