@@ -1,0 +1,6 @@
+{
+    "require": {
+        "matrix-platform/backend-adminlte": "dev-master",
+        "matrix-platform/core": "dev-master"
+    }
+}
