@@ -589,12 +589,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/matrix-platform/core.git",
-                "reference": "b2318986d81fc8608910584ddf8a8c35a0f1ca2a"
+                "reference": "fa02dada3d17f805ebcea23ef89e34b2dc527dba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matrix-platform/core/zipball/b2318986d81fc8608910584ddf8a8c35a0f1ca2a",
-                "reference": "b2318986d81fc8608910584ddf8a8c35a0f1ca2a",
+                "url": "https://api.github.com/repos/matrix-platform/core/zipball/fa02dada3d17f805ebcea23ef89e34b2dc527dba",
+                "reference": "fa02dada3d17f805ebcea23ef89e34b2dc527dba",
                 "shasum": ""
             },
             "require": {
@@ -625,7 +625,7 @@
                 "issues": "https://github.com/matrix-platform/core/issues",
                 "source": "https://github.com/matrix-platform/core/tree/master"
             },
-            "time": "2021-08-11T06:36:42+00:00"
+            "time": "2021-08-13T02:51:44+00:00"
         },
         {
             "name": "mhor/php-mediainfo",
